@@ -1,0 +1,19 @@
+[{"type": "CUSTOMER", "verb": "NEW", "key": "96f55c7d8f43", "event_time": "2017-01-06:12:46:46.384Z", "last_name": "Smith", "adr_city": "Middletown", "adr_state": "AK"}
+{"type": "SITE_VISIT", "verb": "NEW", "key": "ac05e815503f", "event_time": "2017-01-08:12:45:52.041Z", "customer_id": "96f55c7d8f43", "tags": {"some key": "some value"}},
+{"type": "SITE_VISIT", "verb": "NEW", "key": "ac05e815504f", "event_time": "2017-01-10:13:45:52.041Z", "customer_id": "96f55c7d8f43", "tags": {"some key": "some value"}},
+{"type": "IMAGE", "verb": "UPLOAD", "key": "d8ede43b1d10f", "event_time": "2017-01-10:12:47:12.344Z", "customer_id": "96f55c7d8f43", "camera_make": "Canon", "camera_model": "EOS 80D"},
+{"type": "", "verb": "NEW", "key": "68d84e5d1a44", "event_time": "2017-01-08:12:55:55.555Z", "customer_id": "96f55c7d8f43", "total_amount": "39.04 USD"},
+{"type": "ORDER", "verb": "NEW", "key": "68d84e5d1a45", "event_time": "2017-01-10:13:55:55.555Z", "customer_id": "96f55c7d8f43", "total_amount": "9 USD"},
+{"type": "CUSTOMER", "verb": "UPDATE", "key": "96f55c7d8f43", "event_time": "2017-01-06:12:46:46.384Z", "last_name": "Smith", "adr_city": "Long", "adr_state": "AK"},
+{"type": "CUSTOMER", "verb": "NEW", "key": "96f55c7d8f45", "event_time": "2017-01-06:12:46:46.384Z", "last_name": "Smith", "adr_city": "Middletown", "adr_state": "AK"},
+{"type": "CUSTOMER", "verb": "NEW", "key": "96f55fg3ygyc7d8f44", "event_time": "2017-01-06:12:46:46.384Z", "last_name": "Smith", "adr_city": "Seattle", "adr_state": "WA"},
+{"type": "ORDER", "verb": "", "key": "68d84e5d1a46", "event_time": "2017-01-08:12:55:55.555Z", "customer_id": "96f55c7d8f44", "total_amount": "0.04 USD"},
+{"type": "ORDER", "verb": "NEW", "key": "68d84e5d1a47", "event_time": "2017-01-10:13:55:55.555Z", "customer_id": "96f55c7d8f45", "total_amount": "120 USD"},
+{"type": "CUSTOMER", "verb": "ALTER", "key": "", "event_time": "2017-01-06:12:46:46.384Z", "last_name": "Smith", "adr_city": "Middletown", "adr_state": "AK"},
+{"type": "CUSTOMER", "verb": "NEW", "key": "96f55c7d8f47", "event_time": "2017-01-06:12:46:46.384Z", "last_name": "Smith", "adr_city": "Middletown", "adr_state": "AK"},]
+{"type": "SITE_VISIT", "verb": "NEW", "key": "ac05e815508f", "event_time": "2017-01-08:12:45:52.041Z", "customer_id": "96f55c7d8f46", "tags": {"some key": "some value"}},
+{"type": "SITE_VISIT", "verb": "NEW", "key": "ac05e815509f", "event_time": "2017-01-10:13:45:52.041Z", "customer_id": "96f55c7d8f47", "tags": {"some key": "some value"}},
+{"type": "IMAGE", "verb": "NEW", "key": "d8ede43b1d14f", "event_time": "2017-01-10:12:47:12.344Z", "customer_id": "96f55c7d8f46", "camera_make": "Canon", "camera_model": "EOS 80D"},
+{"type": "IMAGE", "verb": "UPLOAD", "key": "d8ede43b1d15f", "event_time": "2017-01-10:12:47:12.344Z", "customer_id": "96f55c7d8f47", "camera_make": "Canon", "camera_model": "EOS 80D"},
+{"type": "ORDER", "verb": "NEW", "key": "68d84e5d1a48", "event_time": "2017-01-08:12:55:55.555Z", "customer_id": "96f55c7d8f46", "total_amount": "24.04 USD"},
+{"type": "ORDER", "verb": "CREATE", "key": "68d84e5d1a48", "event_time": "2017-01-10:13:55:55.555Z", "customer_id": "96f55c7d8f46", "total_amount": "12 USD"},]
